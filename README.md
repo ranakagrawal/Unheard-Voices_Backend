@@ -2,7 +2,7 @@
 
 Welcome to Unheard-Voices ! This app is designed to empower users to report incidents of child labour and access information about various schemes related to child labour. By using this app, you can play a crucial role in eradicating child labour and creating a safer environment for children.
 
-Functionalities
+## Functionalities
 1. Information of Schemes Regarding Child Labour
 The app provides comprehensive information about various government and non-government schemes aimed at tackling child labour. Users can access details about each scheme, eligibility criteria, benefits, and how to apply for them. Being informed about these schemes can help individuals make a positive impact in supporting vulnerable children.
 
@@ -14,5 +14,14 @@ The app allows users to share the precise location where they have spotted child
 
 4. Share Image & Time of Spotted Child Labour
 Along with the location, users can capture and upload images of the child labour incident, providing visual evidence to support their reports. Additionally, you can note the time of the incident, aiding in further investigation and action.
+
+## Features
+1. Access information on child labour schemes from the "Schemes" section.
+
+2. To lodge a complaint, go to the "Complaints" section and fill out the necessary details.
+
+3. Use the "Share Location" and "Capture Image & Time" features to provide additional information about spotted child labour incidents.
+
+
 
 [Report Unheard-Voices](https://github.com/ranakagrawal/Unheard-Voices_Backend/files/12184785/Final.Report.Unheard.voices.pdf)
